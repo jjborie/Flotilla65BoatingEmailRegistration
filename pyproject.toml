@@ -1,0 +1,15 @@
+[project]
+name = "flotilla65boatingemailregistration"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mammoth>=1.9.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "pillow>=11.2.1",
+    "python-docx>=1.1.2",
+    "sendgrid>=6.12.2",
+    "streamlit>=1.45.1",
+]
